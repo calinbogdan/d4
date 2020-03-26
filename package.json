@@ -19,15 +19,19 @@
     "@babel/preset-env": "^7.9.0",
     "@babel/preset-react": "^7.9.4",
     "babel-loader": "^8.1.0",
+    "babel-plugin-styled-components": "^1.10.7",
     "d3": "^5.15.0",
+    "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-styleguidist": "^11.0.4",
+    "styled-components": "^5.0.1",
     "webpack": "^4.42.1"
   },
   "peerDependencies": {
     "d3": "^5.x",
     "react": "^16.x",
+    "prop-types": "^15.7.2",
     "react-dom": "^16.x",
     "webpack": "^4.x"
   }
